@@ -191,7 +191,7 @@ body {
   .main-section {
     float: left;
     width: 100%;
-    max-width: 650px;
+    
     padding: 30px;
     margin: 0 0 40px;
     background: #fff;
@@ -237,3 +237,11 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
+
+  /* photoSection */
+
+  #photo{
+      width: 20%;
+  }
+
+  
